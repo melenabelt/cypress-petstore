@@ -11,7 +11,7 @@ Before you get started, make sure you have Node.js and NPM installed on your sys
 1. Clone this repository to your system:
 
    ```shell
-   git clone https://github.com/melenabelt/wdio-ts-bootcamp-2/
+   git clone https://github.com/melenabelt/cypress-petstore
    ```
 
 2. Navigate to the project directory:
